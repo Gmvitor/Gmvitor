@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Vitor Gomides</h1>
-<h3 align="center">Atualmente sou estudante da Alura e no momento só estou adquirindo conhecimento</h3>
+<h3 align="center">Atualmente sou estudante da Alura e no momento só buscando aprender</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmvitor&label=Profile%20views&color=0e75b6&style=flat" alt="gmvitor" /> </p>
 
