@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmvitor&label=Profile%20views&color=0e75b6&style=flat" alt="gmvitor" /> </p>
 
-- 🔭 Atualmente estou trabalhando no **Midi**
+- 🔭 Atualmente estou trabalhando no projeto **Midi**
 
-- 🌱 Atualmente estou aprendendo **JavaScript, HTML, CSS**
+- 🌱 Estou aprendendo **JavaScript, HTML, CSS**
 
 - 📫 Meu contato **vitorgomides11@gmail.com**
 
